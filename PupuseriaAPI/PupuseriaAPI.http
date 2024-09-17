@@ -1,0 +1,6 @@
+@PupuseriaAPI_HostAddress = http://localhost:5263
+
+GET {{PupuseriaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
