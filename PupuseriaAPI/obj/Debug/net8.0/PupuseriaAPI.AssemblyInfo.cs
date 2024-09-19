@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PupuseriaAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd22307f51a2948a0a5ced90b9d546a489065d1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("PupuseriaAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PupuseriaAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

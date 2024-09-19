@@ -11,6 +11,7 @@ public class PupuseriaContext : DbContext
         
     }
     public DbSet<Pupuseria> Pupuserias { get; set;}
+    
     public DbSet<Usuario> Usuarios { get; set;}
     public DbSet<Voto> Votos { get; set;}
 }

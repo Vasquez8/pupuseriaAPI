@@ -35,3 +35,4 @@ C:\Users\MINEDUCYT\OneDrive\Escritorio\practica semana 2\PupuseriaAPI\bin\Debug\
 C:\Users\MINEDUCYT\OneDrive\Escritorio\practica semana 2\PupuseriaAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\MINEDUCYT\OneDrive\Escritorio\practica semana 2\PupuseriaAPI\bin\Debug\net8.0\MySqlConnector.dll
 C:\Users\MINEDUCYT\OneDrive\Escritorio\practica semana 2\PupuseriaAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\MINEDUCYT\OneDrive\Escritorio\practica semana 2\PupuseriaAPI\obj\Debug\net8.0\PupuseriaAPI.sourcelink.json
