@@ -13,8 +13,10 @@ builder.Services.AddDbContext<PupuseriaContext>(
     Options => Options.UseMySql(ConString,ServerVersion.AutoDetect(ConString))
 );
 builder.Services.AddScoped<IUsuarioService, UsuarioService>();
-
+builder.Services.AddScoped<IPupuseriaService, PupuseriaService>();
+builder.Services.AddScoped<IVotoService, VotoService>();
 builder.Services.AddControllers();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
